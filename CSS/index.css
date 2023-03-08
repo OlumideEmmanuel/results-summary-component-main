@@ -284,6 +284,16 @@ body {
   padding-right: 35%;
 }
 
+.main .section-two .continue :hover {
+  background-color: white;
+  border-radius: 20px;
+  padding: 10px;
+  color: #303b5a;
+  font-weight: bold;
+  font-family: 'Red Hat Display', sans-serif;
+  font-size: 80%;
+}
+
 .main .section-two .continue a {
   text-decoration: none;
   color: white;

@@ -303,6 +303,16 @@ body{
         padding-left: 40%;
         padding-right: 35%;
 
+        :hover{  
+            background-color: hsl(0, 0%, 100%);
+            border-radius: 20px;
+            padding: 10px;
+            color: hsl(224, 30%, 27%);
+            font-weight: bold;
+            font-family: 'Red Hat Display', sans-serif;
+            font-size: 80%;
+                  }
+
         a{
             text-decoration: none;
             color: white;
